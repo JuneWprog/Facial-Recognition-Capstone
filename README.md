@@ -1,5 +1,4 @@
 # Facial-Recognition-Capstone
-# Facial-Recognition-Capstone
 <h2>This project compose of 2 systems:</h2>
 
 <h3>1. A facial-recognition Surveillance  System. </h3>
