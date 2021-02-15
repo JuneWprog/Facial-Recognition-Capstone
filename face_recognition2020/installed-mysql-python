@@ -1,0 +1,23 @@
+1)
+Mysql database install and setup:
+
+sudo apt-get install mysql-server -y
+sudo service mysql start
+sudo mysql -u root -p
+mysql> ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'mplftw20';
+create database iss;
+use  iss;
+
+2)
+install python3 modules:
+
+sudo apt-get -y install python3-pip python3-dev -y
+sudo apt-get -y install cmake
+sudo apt-get -y install python3-tk
+sudo apt-get install python3-pil python3-pil.imagetk
+
+pip3 install --upgrade pip
+pip3 install opencv-contrib-python
+pip3 install face_recognition
+pip3 install mysql.connector
+pip3 install playsound

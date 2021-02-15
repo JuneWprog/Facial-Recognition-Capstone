@@ -1,0 +1,266 @@
+INFO: 2020-02-29 17:45:49,846  A new user added to table users jerry569
+INFO: 2020-02-29 17:46:09,787  A new user added to table users jerry568
+INFO: 2020-02-29 17:46:54,322  A new user added to table users jerry55
+INFO: 2020-02-29 17:50:34,173  A new user added to table users jerry589
+INFO: 2020-02-29 18:31:58,733  A new user added to table users jum.156
+INFO: 2020-02-29 19:34:49,358  table face created
+INFO: 2020-02-29 19:34:49,853  A new face added to table face  Will Smith
+WARNING: 2020-02-29 19:36:40,467 insert into database  unknown Unknown20-02-29-19:36:40
+WARNING: 2020-02-29 19:36:40,467 insert into database  unknown Unknown20-02-29-19:36:40
+WARNING: 2020-02-29 19:36:42,262 insert into database  unknown Unknown20-02-29-19:36:42
+WARNING: 2020-02-29 19:36:42,262 insert into database  unknown Unknown20-02-29-19:36:42
+WARNING: 2020-02-29 19:36:43,562 insert into database  unknown Unknown20-02-29-19:36:43
+WARNING: 2020-02-29 19:36:43,562 insert into database  unknown Unknown20-02-29-19:36:43
+INFO: 2020-02-29 19:41:33,765  table face created
+INFO: 2020-02-29 19:41:33,862  table check_table created
+INFO: 2020-02-29 19:41:33,920  table users created
+INFO: 2020-02-29 19:41:33,977  table unknown created
+INFO: 2020-02-29 19:41:34,049  table usergroups created
+WARNING: 2020-02-29 19:41:35,743 insert into database  unknown Unknown20-02-29-19:41:35
+WARNING: 2020-02-29 19:41:35,743 insert into database  unknown Unknown20-02-29-19:41:35
+INFO: 2020-02-29 19:45:09,259  A new face added to table face  Modea Kong
+INFO: 2020-02-29 19:45:09,617  A new face added to table face  Jun Wang
+INFO: 2020-02-29 19:45:10,026  A new face added to table face  Vincent Saban
+INFO: 2020-02-29 19:45:10,336  A new face added to table face  Donald Trump
+INFO: 2020-02-29 19:45:10,884 insert into database check_table Jun.Wang
+INFO: 2020-02-29 19:45:10,884 insert into database check_table Jun.Wang
+WARNING: 2020-02-29 19:47:00,845 insert into database  unknown Unknown20-02-29-19:47:00
+WARNING: 2020-02-29 19:47:00,845 insert into database  unknown Unknown20-02-29-19:47:00
+WARNING: 2020-02-29 19:47:10,551 insert into database  unknown Unknown20-02-29-19:47:10
+WARNING: 2020-02-29 19:47:10,551 insert into database  unknown Unknown20-02-29-19:47:10
+WARNING: 2020-02-29 19:47:10,705 insert into database  unknown Unknown20-02-29-19:47:10
+WARNING: 2020-02-29 19:47:10,705 insert into database  unknown Unknown20-02-29-19:47:10
+CRITICAL: 2020-02-29 19:47:10,863 insert into database check_table Donald.Trump
+CRITICAL: 2020-02-29 19:47:10,863 insert into database check_table Donald.Trump
+INFO: 2020-03-05 23:32:03,393  A new user added to table users jun.wang
+INFO: 2020-03-10 22:21:41,684  A new user added to table users jerry123123
+INFO: 2020-03-10 22:28:13,287  table face created
+INFO: 2020-03-10 22:28:13,510  A new face added to table face  Modea Kong
+INFO: 2020-03-10 22:28:13,905  A new face added to table face  Jun Wang
+INFO: 2020-03-10 22:28:14,318  A new face added to table face  Vincent Saban
+INFO: 2020-03-10 22:28:14,637  A new face added to table face  Donald Trump
+INFO: 2020-03-10 22:28:15,182 insert into database check_table Jun.Wang
+INFO: 2020-03-10 22:28:15,182 insert into database check_table Jun.Wang
+WARNING: 2020-03-10 22:28:15,479 insert into database  unknown Unknown20-03-10-22:28:15
+WARNING: 2020-03-10 22:28:15,479 insert into database  unknown Unknown20-03-10-22:28:15
+INFO: 2020-03-18 21:47:51,140 insert into database check_table Jun.Wang
+INFO: 2020-03-18 21:47:51,140 insert into database check_table Jun.Wang
+INFO: 2020-03-18 22:28:31,565  A new face added to table face  Will Smith
+INFO: 2020-03-18 23:10:42,659  A new face added to table face  Will Smith
+INFO: 2020-03-18 23:43:04,956  A new face added to table face  Will Smith
+INFO: 2020-03-19 00:39:34,042  A new face added to table face  Will Smith
+INFO: 2020-03-19 00:41:33,793  A new face added to table face  Will Smith
+INFO: 2020-03-19 11:53:29,364  A new user added to table users Lizardman
+INFO: 2020-03-21 20:16:53,358  A new user added to table users SAIT2020
+INFO: 2020-03-21 21:56:04,463 insert into database check_table Jun.Wang
+INFO: 2020-03-21 21:56:04,463 insert into database check_table Jun.Wang
+CRITICAL: 2020-03-21 21:56:06,277 insert into database check_table Donald.Trump
+CRITICAL: 2020-03-21 21:56:06,277 insert into database check_table Donald.Trump
+WARNING: 2020-03-21 21:56:11,742 insert into database  unknown Unknown20-03-21-21:56:11
+WARNING: 2020-03-21 21:56:11,742 insert into database  unknown Unknown20-03-21-21:56:11
+WARNING: 2020-03-21 21:56:12,500 insert into database  unknown Unknown20-03-21-21:56:12
+WARNING: 2020-03-21 21:56:12,500 insert into database  unknown Unknown20-03-21-21:56:12
+WARNING: 2020-03-21 21:56:20,377 insert into database  unknown Unknown20-03-21-21:56:20
+WARNING: 2020-03-21 21:56:20,377 insert into database  unknown Unknown20-03-21-21:56:20
+WARNING: 2020-03-21 21:56:43,759 insert into database  unknown Unknown20-03-21-21:56:43
+WARNING: 2020-03-21 21:56:43,759 insert into database  unknown Unknown20-03-21-21:56:43
+WARNING: 2020-03-21 21:56:58,464 insert into database  unknown Unknown20-03-21-21:56:58
+WARNING: 2020-03-21 21:56:58,464 insert into database  unknown Unknown20-03-21-21:56:58
+WARNING: 2020-03-21 21:58:06,152 insert into database  unknown Unknown20-03-21-21:58:06
+WARNING: 2020-03-21 21:58:06,152 insert into database  unknown Unknown20-03-21-21:58:06
+WARNING: 2020-03-21 21:58:08,717 insert into database  unknown Unknown20-03-21-21:58:08
+WARNING: 2020-03-21 21:58:08,717 insert into database  unknown Unknown20-03-21-21:58:08
+WARNING: 2020-03-21 21:58:14,858 insert into database  unknown Unknown20-03-21-21:58:14
+WARNING: 2020-03-21 21:58:14,858 insert into database  unknown Unknown20-03-21-21:58:14
+WARNING: 2020-03-21 21:58:15,936 insert into database  unknown Unknown20-03-21-21:58:15
+WARNING: 2020-03-21 21:58:15,936 insert into database  unknown Unknown20-03-21-21:58:15
+WARNING: 2020-03-21 21:58:27,408 insert into database  unknown Unknown20-03-21-21:58:27
+WARNING: 2020-03-21 21:58:27,408 insert into database  unknown Unknown20-03-21-21:58:27
+WARNING: 2020-03-21 21:58:36,055 insert into database  unknown Unknown20-03-21-21:58:36
+WARNING: 2020-03-21 21:58:36,055 insert into database  unknown Unknown20-03-21-21:58:36
+INFO: 2020-03-21 22:07:25,937 insert into database check_table Vincent.Saban
+INFO: 2020-03-21 22:07:25,937 insert into database check_table Vincent.Saban
+WARNING: 2020-03-21 22:08:01,971 insert into database  unknown Unknown20-03-21-22:08:01
+WARNING: 2020-03-21 22:08:01,971 insert into database  unknown Unknown20-03-21-22:08:01
+WARNING: 2020-03-21 22:08:05,196 insert into database  unknown Unknown20-03-21-22:08:05
+WARNING: 2020-03-21 22:08:05,196 insert into database  unknown Unknown20-03-21-22:08:05
+WARNING: 2020-03-21 22:08:12,203 insert into database  unknown Unknown20-03-21-22:08:12
+WARNING: 2020-03-21 22:08:12,203 insert into database  unknown Unknown20-03-21-22:08:12
+WARNING: 2020-03-21 22:08:12,781 insert into database  unknown Unknown20-03-21-22:08:12
+WARNING: 2020-03-21 22:08:12,781 insert into database  unknown Unknown20-03-21-22:08:12
+WARNING: 2020-03-21 22:09:18,970 insert into database  unknown Unknown20-03-21-22:09:18
+WARNING: 2020-03-21 22:09:18,970 insert into database  unknown Unknown20-03-21-22:09:18
+WARNING: 2020-03-21 22:10:10,196 insert into database  unknown Unknown20-03-21-22:10:10
+WARNING: 2020-03-21 22:10:10,196 insert into database  unknown Unknown20-03-21-22:10:10
+WARNING: 2020-03-21 22:10:22,639 insert into database  unknown Unknown20-03-21-22:10:22
+WARNING: 2020-03-21 22:10:22,639 insert into database  unknown Unknown20-03-21-22:10:22
+WARNING: 2020-03-21 22:10:41,953 insert into database  unknown Unknown20-03-21-22:10:41
+WARNING: 2020-03-21 22:10:41,953 insert into database  unknown Unknown20-03-21-22:10:41
+WARNING: 2020-03-21 22:11:53,575 insert into database  unknown Unknown20-03-21-22:11:53
+WARNING: 2020-03-21 22:11:53,575 insert into database  unknown Unknown20-03-21-22:11:53
+WARNING: 2020-03-21 22:17:03,480 insert into database  unknown Unknown20-03-21-22:17:03
+WARNING: 2020-03-21 22:17:03,480 insert into database  unknown Unknown20-03-21-22:17:03
+WARNING: 2020-03-21 22:17:03,639 insert into database  unknown Unknown20-03-21-22:17:03
+WARNING: 2020-03-21 22:17:03,639 insert into database  unknown Unknown20-03-21-22:17:03
+WARNING: 2020-03-21 22:17:06,257 insert into database  unknown Unknown20-03-21-22:17:06
+WARNING: 2020-03-21 22:17:06,257 insert into database  unknown Unknown20-03-21-22:17:06
+WARNING: 2020-03-21 22:17:13,527 insert into database  unknown Unknown20-03-21-22:17:13
+WARNING: 2020-03-21 22:17:13,527 insert into database  unknown Unknown20-03-21-22:17:13
+WARNING: 2020-03-21 22:17:39,269 insert into database  unknown Unknown20-03-21-22:17:39
+WARNING: 2020-03-21 22:17:39,269 insert into database  unknown Unknown20-03-21-22:17:39
+WARNING: 2020-03-21 22:17:42,426 insert into database  unknown Unknown20-03-21-22:17:42
+WARNING: 2020-03-21 22:17:42,426 insert into database  unknown Unknown20-03-21-22:17:42
+WARNING: 2020-03-21 22:17:44,940 insert into database  unknown Unknown20-03-21-22:17:44
+WARNING: 2020-03-21 22:17:44,940 insert into database  unknown Unknown20-03-21-22:17:44
+WARNING: 2020-03-21 22:18:24,417 insert into database  unknown Unknown20-03-21-22:18:24
+WARNING: 2020-03-21 22:18:24,417 insert into database  unknown Unknown20-03-21-22:18:24
+WARNING: 2020-03-21 22:18:25,345 insert into database  unknown Unknown20-03-21-22:18:25
+WARNING: 2020-03-21 22:18:25,345 insert into database  unknown Unknown20-03-21-22:18:25
+WARNING: 2020-03-21 22:18:36,844 insert into database  unknown Unknown20-03-21-22:18:36
+WARNING: 2020-03-21 22:18:36,844 insert into database  unknown Unknown20-03-21-22:18:36
+WARNING: 2020-03-21 22:19:09,952 insert into database  unknown Unknown20-03-21-22:19:09
+WARNING: 2020-03-21 22:19:09,952 insert into database  unknown Unknown20-03-21-22:19:09
+WARNING: 2020-03-21 22:21:20,134 insert into database  unknown Unknown20-03-21-22:21:20
+WARNING: 2020-03-21 22:21:20,134 insert into database  unknown Unknown20-03-21-22:21:20
+WARNING: 2020-03-21 22:21:21,225 insert into database  unknown Unknown20-03-21-22:21:21
+WARNING: 2020-03-21 22:21:21,225 insert into database  unknown Unknown20-03-21-22:21:21
+WARNING: 2020-03-21 22:22:05,632 insert into database  unknown Unknown20-03-21-22:22:05
+WARNING: 2020-03-21 22:22:05,632 insert into database  unknown Unknown20-03-21-22:22:05
+WARNING: 2020-03-21 22:22:15,400 insert into database  unknown Unknown20-03-21-22:22:15
+WARNING: 2020-03-21 22:22:15,400 insert into database  unknown Unknown20-03-21-22:22:15
+WARNING: 2020-03-21 22:22:17,445 insert into database  unknown Unknown20-03-21-22:22:17
+WARNING: 2020-03-21 22:22:17,445 insert into database  unknown Unknown20-03-21-22:22:17
+WARNING: 2020-03-21 22:22:18,189 insert into database  unknown Unknown20-03-21-22:22:18
+WARNING: 2020-03-21 22:22:18,189 insert into database  unknown Unknown20-03-21-22:22:18
+WARNING: 2020-03-21 22:22:40,148 insert into database  unknown Unknown20-03-21-22:22:40
+WARNING: 2020-03-21 22:22:40,148 insert into database  unknown Unknown20-03-21-22:22:40
+INFO: 2020-03-23 19:14:14,737  A new face added to table face  Modae Kong
+INFO: 2020-03-23 19:14:15,664 insert into database check_table Jun.Wang
+INFO: 2020-03-23 19:14:15,664 insert into database check_table Jun.Wang
+WARNING: 2020-03-23 19:14:55,614 insert into database  unknown Unknown20-03-23-19:14:55
+WARNING: 2020-03-23 19:14:55,614 insert into database  unknown Unknown20-03-23-19:14:55
+WARNING: 2020-03-23 19:15:18,336 insert into database  unknown Unknown20-03-23-19:15:18
+WARNING: 2020-03-23 19:15:18,336 insert into database  unknown Unknown20-03-23-19:15:18
+INFO: 2020-03-23 19:15:18,724 insert into database check_table Vincent.Saban
+INFO: 2020-03-23 19:15:18,724 insert into database check_table Vincent.Saban
+INFO: 2020-03-23 19:15:28,313 insert into database check_table Modea.Kong
+INFO: 2020-03-23 19:15:28,313 insert into database check_table Modea.Kong
+CRITICAL: 2020-03-23 19:15:54,447 insert into database check_table Donald.Trump
+CRITICAL: 2020-03-23 19:15:54,447 insert into database check_table Donald.Trump
+WARNING: 2020-03-23 19:16:46,243 insert into database  unknown Unknown20-03-23-19:16:46
+WARNING: 2020-03-23 19:16:46,243 insert into database  unknown Unknown20-03-23-19:16:46
+WARNING: 2020-03-23 19:16:55,364 insert into database  unknown Unknown20-03-23-19:16:55
+WARNING: 2020-03-23 19:16:55,364 insert into database  unknown Unknown20-03-23-19:16:55
+WARNING: 2020-03-23 19:17:01,002 insert into database  unknown Unknown20-03-23-19:17:00
+WARNING: 2020-03-23 19:17:01,002 insert into database  unknown Unknown20-03-23-19:17:00
+WARNING: 2020-03-23 19:17:03,691 insert into database  unknown Unknown20-03-23-19:17:03
+WARNING: 2020-03-23 19:17:03,691 insert into database  unknown Unknown20-03-23-19:17:03
+WARNING: 2020-03-23 19:17:09,199 insert into database  unknown Unknown20-03-23-19:17:09
+WARNING: 2020-03-23 19:17:09,199 insert into database  unknown Unknown20-03-23-19:17:09
+WARNING: 2020-03-23 19:17:33,522 insert into database  unknown Unknown20-03-23-19:17:33
+WARNING: 2020-03-23 19:17:33,522 insert into database  unknown Unknown20-03-23-19:17:33
+INFO: 2020-03-25 11:58:57,278 insert into database check_table Jun.Wang
+INFO: 2020-03-25 11:58:57,278 insert into database check_table Jun.Wang
+WARNING: 2020-03-25 12:29:12,183 insert into database  unknown Unknown20-03-25-12:29:12
+WARNING: 2020-03-25 12:29:12,183 insert into database  unknown Unknown20-03-25-12:29:12
+CRITICAL: 2020-03-25 12:29:32,326 insert into database check_table Donald.Trump
+CRITICAL: 2020-03-25 12:29:32,326 insert into database check_table Donald.Trump
+WARNING: 2020-03-25 12:29:32,586 insert into database  unknown Unknown20-03-25-12:29:32
+WARNING: 2020-03-25 12:29:32,586 insert into database  unknown Unknown20-03-25-12:29:32
+INFO: 2020-03-25 12:29:55,640 insert into database check_table Vincent.Saban
+INFO: 2020-03-25 12:29:55,640 insert into database check_table Vincent.Saban
+INFO: 2020-04-14 14:18:41,487 insert into database check_table Jun.Wang
+INFO: 2020-04-14 14:18:41,487 insert into database check_table Jun.Wang
+WARNING: 2020-04-14 14:18:58,714 insert into database  unknown Unknown20-04-14-14:18:58
+WARNING: 2020-04-14 14:18:58,714 insert into database  unknown Unknown20-04-14-14:18:58
+INFO: 2020-04-14 14:21:14,129 insert into database check_table Modea.Kong
+INFO: 2020-04-14 14:21:14,129 insert into database check_table Modea.Kong
+CRITICAL: 2020-04-14 14:21:23,305 insert into database check_table Donald.Trump
+CRITICAL: 2020-04-14 14:21:23,305 insert into database check_table Donald.Trump
+WARNING: 2020-04-14 14:21:50,708 insert into database  unknown Unknown20-04-14-14:21:50
+WARNING: 2020-04-14 14:21:50,708 insert into database  unknown Unknown20-04-14-14:21:50
+INFO: 2020-04-14 15:35:37,998  table face created
+INFO: 2020-04-14 15:35:38,063  table check_table created
+INFO: 2020-04-14 15:35:38,126  table users created
+INFO: 2020-04-14 15:35:38,208  table unknown created
+INFO: 2020-04-14 15:35:38,271  table usergroups created
+INFO: 2020-04-14 15:35:38,769  A new face added to table face  Jun Wang
+INFO: 2020-04-14 15:35:39,295  A new face added to table face  Vincent Saban
+INFO: 2020-04-14 15:35:39,511  A new face added to table face  Modae Kong
+INFO: 2020-04-14 15:35:39,882  A new face added to table face  Donald Trump
+INFO: 2020-04-14 15:35:40,391 insert into database check_table Jun.Wang
+INFO: 2020-04-14 15:35:40,391 insert into database check_table Jun.Wang
+WARNING: 2020-04-14 15:36:20,304 insert into database  unknown Unknown20-04-14-15:36:20
+WARNING: 2020-04-14 15:36:20,304 insert into database  unknown Unknown20-04-14-15:36:20
+CRITICAL: 2020-04-14 15:36:20,867 insert into database check_table Donald.Trump
+CRITICAL: 2020-04-14 15:36:20,867 insert into database check_table Donald.Trump
+WARNING: 2020-04-14 15:36:40,015 insert into database  unknown Unknown20-04-14-15:36:39
+WARNING: 2020-04-14 15:36:40,015 insert into database  unknown Unknown20-04-14-15:36:39
+WARNING: 2020-04-14 15:36:49,078 insert into database  unknown Unknown20-04-14-15:36:49
+WARNING: 2020-04-14 15:36:49,078 insert into database  unknown Unknown20-04-14-15:36:49
+INFO: 2020-04-14 15:36:55,687 insert into database check_table Vincent.Saban
+INFO: 2020-04-14 15:36:55,687 insert into database check_table Vincent.Saban
+CRITICAL: 2020-04-14 15:37:18,213 insert into database check_table Modae.Kong
+CRITICAL: 2020-04-14 15:37:18,213 insert into database check_table Modae.Kong
+WARNING: 2020-04-14 15:40:27,340 insert into database  unknown Unknown20-04-14-15:40:27
+WARNING: 2020-04-14 15:40:27,340 insert into database  unknown Unknown20-04-14-15:40:27
+WARNING: 2020-04-14 15:40:30,687 insert into database  unknown Unknown20-04-14-15:40:30
+WARNING: 2020-04-14 15:40:30,687 insert into database  unknown Unknown20-04-14-15:40:30
+INFO: 2020-04-14 16:13:54,205  table face created
+INFO: 2020-04-14 16:13:54,281  table check_table created
+INFO: 2020-04-14 16:13:54,351  table users created
+INFO: 2020-04-14 16:13:54,425  table unknown created
+INFO: 2020-04-14 16:13:54,501  table usergroups created
+INFO: 2020-04-14 16:13:55,017  A new face added to table face  Jun Wang
+INFO: 2020-04-14 16:13:55,518  A new face added to table face  Vincent Saban
+INFO: 2020-04-14 16:13:55,734  A new face added to table face  Modae Kong
+INFO: 2020-04-14 16:13:56,102  A new face added to table face  Donald Trump
+INFO: 2020-04-14 16:13:56,610 insert into database check_table Jun.Wang
+INFO: 2020-04-14 16:13:56,610 insert into database check_table Jun.Wang
+WARNING: 2020-04-14 16:14:17,552 insert into database  unknown Unknown20-04-14-16:14:17
+WARNING: 2020-04-14 16:14:17,552 insert into database  unknown Unknown20-04-14-16:14:17
+CRITICAL: 2020-04-14 16:14:17,931 insert into database check_table Donald.Trump
+CRITICAL: 2020-04-14 16:14:17,931 insert into database check_table Donald.Trump
+WARNING: 2020-04-14 16:14:18,114 insert into database  unknown Unknown20-04-14-16:14:18
+WARNING: 2020-04-14 16:14:18,114 insert into database  unknown Unknown20-04-14-16:14:18
+INFO: 2020-04-14 16:14:28,834 insert into database check_table Vincent.Saban
+INFO: 2020-04-14 16:14:28,834 insert into database check_table Vincent.Saban
+WARNING: 2020-04-14 16:14:31,723 insert into database  unknown Unknown20-04-14-16:14:31
+WARNING: 2020-04-14 16:14:31,723 insert into database  unknown Unknown20-04-14-16:14:31
+WARNING: 2020-04-14 16:14:35,626 insert into database  unknown Unknown20-04-14-16:14:35
+WARNING: 2020-04-14 16:14:35,626 insert into database  unknown Unknown20-04-14-16:14:35
+CRITICAL: 2020-04-14 16:14:52,863 insert into database check_table Modae.Kong
+CRITICAL: 2020-04-14 16:14:52,863 insert into database check_table Modae.Kong
+INFO: 2020-04-14 16:24:50,794  A new user added to table users jill234Q123
+WARNING: 2020-04-14 16:28:30,182 insert into database  unknown Unknown20-04-14-16:28:30
+WARNING: 2020-04-14 16:28:30,182 insert into database  unknown Unknown20-04-14-16:28:30
+INFO: 2020-04-14 17:13:32,041  A new face added to table face  Will Smith
+WARNING: 2020-04-14 17:13:37,587 insert into database  unknown Unknown20-04-14-17:13:37
+WARNING: 2020-04-14 17:13:37,587 insert into database  unknown Unknown20-04-14-17:13:37
+WARNING: 2020-04-14 17:13:47,907 insert into database  unknown Unknown20-04-14-17:13:47
+WARNING: 2020-04-14 17:13:47,907 insert into database  unknown Unknown20-04-14-17:13:47
+INFO: 2020-04-14 17:14:07,798 insert into database check_table Will.Smith
+INFO: 2020-04-14 17:14:07,798 insert into database check_table Will.Smith
+INFO: 2020-04-14 17:22:28,112  table face created
+INFO: 2020-04-14 17:22:28,171  table check_table created
+INFO: 2020-04-14 17:22:28,256  table users created
+INFO: 2020-04-14 17:22:28,315  table unknown created
+INFO: 2020-04-14 17:22:28,374  table usergroups created
+INFO: 2020-04-14 17:22:28,818  A new face added to table face  Jun Wang
+INFO: 2020-04-14 17:22:29,293  A new face added to table face  Vincent Saban
+INFO: 2020-04-14 17:22:29,488  A new face added to table face  Modae Kong
+INFO: 2020-04-14 17:22:29,827  A new face added to table face  Donald Trump
+INFO: 2020-04-14 17:22:30,387 insert into database check_table Jun.Wang
+INFO: 2020-04-14 17:22:30,387 insert into database check_table Jun.Wang
+INFO: 2020-04-14 17:28:11,026  A new face added to table face  Will Smith
+WARNING: 2020-04-14 17:29:25,048 insert into database  unknown Unknown20-04-14-17:29:25
+WARNING: 2020-04-14 17:29:25,048 insert into database  unknown Unknown20-04-14-17:29:25
+INFO: 2020-04-14 17:29:25,677 insert into database check_table Will.Smith
+INFO: 2020-04-14 17:29:25,677 insert into database check_table Will.Smith
+WARNING: 2020-04-14 17:29:27,221 insert into database  unknown Unknown20-04-14-17:29:27
+WARNING: 2020-04-14 17:29:27,221 insert into database  unknown Unknown20-04-14-17:29:27
+WARNING: 2020-04-14 17:29:35,711 insert into database  unknown Unknown20-04-14-17:29:35
+WARNING: 2020-04-14 17:29:35,711 insert into database  unknown Unknown20-04-14-17:29:35
+WARNING: 2020-04-14 17:29:40,591 insert into database  unknown Unknown20-04-14-17:29:40
+WARNING: 2020-04-14 17:29:40,591 insert into database  unknown Unknown20-04-14-17:29:40
+INFO: 2020-04-14 17:34:33,093  A new user added to table users jilklmvkjode231Q
