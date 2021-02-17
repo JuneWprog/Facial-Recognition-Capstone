@@ -20,11 +20,11 @@ def alert():
 
 def email_sender(name,date,time):
     
-    gmail_user = "issnotification7"
-    gmail_pass = "Notifier9000"
+    gmail_user = "yourAccount"
+    gmail_pass = "yourPassword"
 
     sender = gmail_user
-    to = "exozeeed@gmail.com"
+    to = "youemail@gmail.com"
     txt = name + str(date)+str(time)+"detected!"
     if name.startswith("Unk"):
         subject = "Unknown Person Alert!!!"
